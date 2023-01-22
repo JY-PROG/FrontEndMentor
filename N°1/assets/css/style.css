@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(194, 211, 211);
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 13rem;
+}
+
+.QrCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 31rem;
+  width: 20rem;
+  border-radius: 16px;
+  background-color: #fff;
+}
+
+.QrCard img {
+  height: 18rem;
+  width: 18rem;
+  margin-top: 1rem;
+  border-radius: 16px;
+}
+
+.QrCard .content {
+  text-align: center;
+  padding: 1rem;
+}
