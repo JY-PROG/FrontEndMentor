@@ -1,4 +1,4 @@
-Live Site : https://jy-prog.github.io/FrontEndMentor/N%C2%B01/
+Live Site : https://jy-prog.github.io/FrontEndMentor/QR_Code_Compenent/
 
 Frontend Mentor - QR code component
 Design preview for the QR code component coding challenge
